@@ -1,5 +1,5 @@
 # vaex
-##what is Vaex?
+## what is Vaex?
 Vaex is a high performance Python library for lazy Out-of-Core
 DataFrames (similar to Pandas), to visualize and explore big
 tabular datasets. It calculates statistics such as mean, sum,
@@ -11,7 +11,7 @@ For windows:
 
 `pip install vaex `
 
-##Reference 
+## Reference 
 link 01 (read data ) :
 ```
 https://docs.vaex.io/en/latest/example_io.html
