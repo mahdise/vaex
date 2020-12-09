@@ -24,3 +24,8 @@ link 03 (adding function for vaex ):
 ```
 https://docs.vaex.io/en/latest/tutorial.html#Adding-functions
 ```
+
+link 04 (adding function for vaex ):
+```
+https://vaex.readthedocs.io/en/latest/example_io.html
+```
